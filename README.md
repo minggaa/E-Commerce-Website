@@ -1,4 +1,4 @@
-<h1 id="title">E-Commerce-Website</h1>
+<h1 id="title">Minimalist Bags ─ E-Commerce Website</h1>
 
 <p id="description">
 • Developed a working e-commerce website that caters to selling minimalistic bags. <br />
